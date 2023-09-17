@@ -1,0 +1,16 @@
+#t{background-image: url(../image/flower.jpg);background-size: cover;background-repeat: no-repeat;background-position: center;height: 100%;font-size: 120px;padding: 300px;width: 100%;box-sizing: border-box;margin: 0px;color: rgb(245, 250, 246);}
+
+*{background-color: rgb(242, 137, 0);font-size: larger;}
+
+.a{color: rgb(240, 243, 246);}
+
+.z{color: rgb(0, 1, 2);font-size: x-large;}
+
+.title{color: rgb(232, 248, 50);font-size: 40px;text-align: center;text-decoration: underline;}
+
+.m{color: aquamarine;}
+
+.oi{text-align: center;}
+.hi{display: inline-block;
+text-align: left;}
+.x{color: rgb(7, 74, 103);}
